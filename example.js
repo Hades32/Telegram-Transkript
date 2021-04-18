@@ -1,0 +1,33 @@
+const ex ={
+	_: 'updateChatLastMessage',
+	chat_id: 222304779,
+	last_message: {
+	  _: 'message',
+	  id: 144738091008,
+	  sender: { _: 'messageSenderUser', user_id: 222304779 },
+	  chat_id: 222304779,
+	  is_outgoing: false,
+	  is_pinned: false,
+	  can_be_edited: false,
+	  can_be_forwarded: true,
+	  can_be_deleted_only_for_self: true,
+	  can_be_deleted_for_all_users: true,
+	  can_get_statistics: false,
+	  can_get_message_thread: false,
+	  is_channel_post: false,
+	  contains_unread_mention: false,
+	  date: 1618732805,
+	  edit_date: 0,
+	  reply_in_chat_id: 0,
+	  reply_to_message_id: 0,
+	  message_thread_id: 0,
+	  ttl: 0,
+	  ttl_expires_in: 0,
+	  via_bot_user_id: 0,
+	  author_signature: '',
+	  media_album_id: '0',
+	  restriction_reason: '',
+	  content: { _: 'messageText', text: [Object] }
+	},
+	positions: []
+  }

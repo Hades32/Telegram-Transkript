@@ -1,0 +1,16 @@
+{
+  "name": "tdl-backup",
+  "version": "1.0.0",
+  "description": "backup all your telegram messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tdl": "^7.0.0",
+    "tdl-tdlib-addon": "^1.0.1",
+    "tdl-tdlib-wasm": "^0.6.0"
+  }
+}
