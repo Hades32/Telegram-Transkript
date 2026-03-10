@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "tdl": "^7.0.0",
+    "tdl": "^8.0.0",
     "tdl-tdlib-addon": "^1.0.1",
     "tdl-tdlib-wasm": "^0.6.0"
   }
